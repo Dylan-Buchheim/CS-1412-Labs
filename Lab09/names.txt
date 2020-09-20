@@ -1,0 +1,5 @@
+Allen Turing
+John McCarthy
+Dennis Ritchie
+Johnathan Apple
+Brian Kernighan
